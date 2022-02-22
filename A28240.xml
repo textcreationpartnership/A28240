@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation of love to the seed of God in the people called Independents, and Baptists, Monarchy-men and Seekers ... / through George Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28240</idno>
+            <idno type="STC">Wing B3005</idno>
+            <idno type="STC">ESTC R12965</idno>
+            <idno type="EEBO-CITATION">11829137</idno>
+            <idno type="OCLC">ocm 11829137</idno>
+            <idno type="VID">49709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 809:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation of love to the seed of God in the people called Independents, and Baptists, Monarchy-men and Seekers ... / through George Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+               <term>Baptists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49709:1"/>
+            <p>
+               <pb facs="tcp:49709:1" rendition="simple:additions"/> A Salutation of LOVE TO The Seed of God, IN The People called <hi>Independents,</hi> and <hi>Baptists, Monarchy-men</hi> and <hi>Seekers</hi>: EVEN, The <hi>Tender Bowels</hi> of the LORD to them all, Through GEORGE BISHOPE.</p>
+            <q>
+               <p>Whom having not ſeen, ye love; in whom though now ye ſee him not, yet believing, ye rejoyce with Joy unſpeakable and full of Glory.</p>
+               <p>Receiving the End of your Faith, even the Salvation of your Souls, </p>
+               <bibl>1 <hi>Pet.</hi> 1. 8, 9.</bibl> 
+            </q>
+            <p>LONDON, <hi>Printed for</hi> Robert Wilſon, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49709:2"/>
+            <pb n="3" facs="tcp:49709:2"/>
+            <head>
+               <hi>A</hi> SALUTATION <hi>of LOVE, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>
+               <hi>CHRIST is riſen from the</hi> Dead, <hi>and become the</hi> firſt fruits <hi>of</hi> them <hi>that ſlept; For, as in</hi> Adam <hi>all die, Even ſo in</hi> Chriſt <hi>ſhall</hi> all <hi>be made alive: And here is the</hi> Conſolation, <hi>That</hi> Chriſt <hi>being raiſed from the</hi> Dead <hi>dyeth</hi> no <hi>more,</hi> Death <hi>hath no more</hi> Dominion <hi>Over</hi> him; <hi>For, in that</hi> he <hi>Dyed,</hi> he <hi>Dyed unto ſin</hi> Once, <hi>but in that</hi> he <hi>Liveth,</hi> he <hi>Liveth unto</hi> God. <hi>So likewiſe reckon</hi> Ye <hi>alſo</hi> your ſelves <hi>to be</hi> dead <hi>indeed unto</hi> Sin, <hi>but</hi> alive <hi>unto</hi> God <hi>through</hi> Jeſus Chriſt our Lord. <hi>And this</hi> old Zachary <hi>propheſied when the</hi> ſtrings <hi>of his</hi> Tongue <hi>were untied, after that</hi> he <hi>had been Dumb for a certain</hi> ſpace <hi>of</hi> time, <hi>as a</hi> Sign <hi>until the</hi> Day, <hi>that the</hi> things <hi>that the</hi> Angel <hi>ſaid to him concerning</hi> John, <hi>which</hi> he <hi>believed not, ſhould be</hi> performed; <hi>Who was to</hi> prepare <hi>his VVayes before</hi> his <hi>face, and to go before</hi> him in <hi>the</hi> Spirit <hi>and</hi> Power <hi>of</hi> Elias, To turn the hearts of the Fathers unto their Chil<g ref="char:EOLhyphen"/>dren, and the Diſobedient to the Wiſdom of the Juſt; To make ready a People prepared for the Lord: <hi>And</hi> thou <hi>(ſaid the</hi> Angel) ſhalt have great Joy and Gladneſs, and many ſhall Rejoyce at his Birth: for he ſhall be great in the ſight of the Lord; and he ſhall drink neither Wine nor ſtrong Drink; and he ſhall be filled with the Holy Ghoſt, even from his Mothers Womb; and many of the Children of <hi>Iſrael</hi> ſhall be turned to the Lord his God: <hi>which ſhall be</hi> fulfilled <hi>in</hi> their ſeaſon: <hi>He ſpake and praiſed</hi> God; <hi>and</hi> he <hi>was filled with the</hi> Holy Ghoſt <hi>and</hi> propheſied, <hi>ſaying,—</hi>Bleſſed be the Lord God of Iſrael, for he hath Viſited and Redeemed his People, and hath raiſed up an Horn of Salvation for Us in the houſe of his Servant <hi>David,</hi> as he ſpake by the Mouth of his Holy Pro<g ref="char:EOLhyphen"/>phets, which have been ſince the World began; That We ſhould be ſaved from Our Enemies, and from the hand of all that that hate us; To perform the Mercy promiſed to Our Fathers, and to Re<g ref="char:EOLhyphen"/>member
+<pb n="4" facs="tcp:49709:3"/> his holy Covenant, the Oath which he ſware unto Our Fa<g ref="char:EOLhyphen"/>ther <hi>Abraham,</hi> that he would grant unto us, That we being deli<g ref="char:EOLhyphen"/>vered Out of the hands of our Enemies, might ſerve him without fear, in Holineſs and Righteouſneſs before him all the dayes of Our life.</p>
+            <p>Friends, <hi>and</hi> Brethren <hi>in the</hi> Fleſh, <hi>and in the</hi> Covenant <hi>of</hi> God <hi>(as many of</hi> You <hi>as ſtand in the</hi> Election <hi>of</hi> Grace) <hi>to</hi> You <hi>am I moved of the</hi> Lord God <hi>Eternal to</hi> write, <hi>and to</hi> warn You, <hi>That</hi> You <hi>take heed to that</hi> in You, <hi>which</hi> witneſſeth <hi>to God, which is the</hi> Day-ſpring <hi>from on</hi> high, <hi>which through the</hi> Ten<g ref="char:EOLhyphen"/>der Mercie <hi>of</hi> our <hi>God hath</hi> viſited You, <hi>To</hi> Give LIGHT <hi>to thoſe that ſit in</hi> Darkneſs, <hi>and the</hi> ſhadow <hi>of</hi> Death, <hi>and to</hi> guide <hi>your feet in the</hi> Way of Peace. <hi>For this is</hi> He <hi>which</hi> Za<g ref="char:EOLhyphen"/>chary <hi>propheſied of, which ſhould be called the</hi> Prophet <hi>of the</hi> Higheſt, <hi>which ſhould go before the</hi> face <hi>of the</hi> Lord, <hi>to pre<g ref="char:EOLhyphen"/>pare his</hi> Way <hi>before</hi> him; <hi>To give the</hi> knowledge <hi>of</hi> Salvation <hi>unto</hi> his <hi>People [by] the</hi> Remiſſion <hi>of</hi> their <hi>Sins; which is</hi> ful<g ref="char:EOLhyphen"/>filled <hi>in</hi> this <hi>Day, Wherein</hi> Multitudes <hi>of</hi> his <hi>People hath the</hi> Lord <hi>Viſited with the</hi> Day-ſpring from on High <hi>with his</hi> Tender Mercy, <hi>and</hi> given LIGHT <hi>unto, who</hi> ſate <hi>in</hi> Darkneſs, <hi>and in the</hi> ſhadow <hi>of</hi> Death; <hi>and</hi> guided their <hi>feet in the</hi> Way <hi>of</hi> Peace; <hi>and</hi> given <hi>the</hi> knowledge <hi>of</hi> Salvation <hi>[by] the</hi> Remiſſion <hi>of their</hi> Sins, <hi>through that which hath gone before his</hi> Face <hi>to prepare</hi> his <hi>Wayes; who hath</hi> given <hi>the</hi> knowledge <hi>of</hi> Salvation <hi>unto</hi> them <hi>[by] the</hi> Remiſſion <hi>of</hi> their Sins; <hi>Who is come the</hi> Second time without Sin <hi>unto</hi> Salvation, <hi>which</hi> they <hi>witneſſe; VVho was</hi> dead, <hi>and is</hi> alive, <hi>and behold</hi> I live <hi>for</hi> evermore <hi>(ſaid</hi> he <hi>to</hi> John) <hi>and have the</hi> Keys <hi>of</hi> Hell, <hi>and of</hi> Death; <hi>VVhom it was not</hi> poſſible <hi>that</hi> he <hi>ſhould be</hi> holden <hi>of</hi> Death: <hi>For,</hi> he <hi>ſaid in a certain place,</hi> Thou wilt not leave my Soul in Hell, neither wilt thou ſuffer thine Holy One to ſee Corruption; but wilt ſhew me the Path of Life <hi>of</hi> all <hi>Pleaſures and Stores, which are at</hi> thy <hi>right hand, and</hi> fulneſs <hi>of</hi> Joy <hi>for evermore: Whoſe</hi> Day <hi>Abraham</hi> ſaw, <hi>and</hi> rejoyced; <hi>and</hi> before Abraham was, I am, <hi>ſaid he, who</hi> lives <hi>for ever,</hi> Jeſus Chriſt; Yeſterday, <hi>and</hi> to day, <hi>and the</hi> ſame <hi>for</hi> ever: <hi>VVho cometh in</hi> Clouds, <hi>and</hi> every <hi>Eye ſhall ſee</hi> him, <hi>and</hi> they <hi>alſo which</hi> pierced him; <hi>and</hi> all <hi>Kin<g ref="char:EOLhyphen"/>dreds of the</hi> Earth <hi>ſhall</hi> wail <hi>becauſe of</hi> him; <hi>Even ſo</hi> Amen.
+<pb n="5" facs="tcp:49709:3"/> 
+               <hi>VVho is the</hi> Faithful VVitneſs, <hi>the</hi> firſt begotten <hi>of the</hi> Dead, <hi>and the</hi> Prince <hi>of the</hi> Kings <hi>of the</hi> Earth; <hi>The</hi> Alpha, <hi>and the</hi> Omega, <hi>the</hi> beginning <hi>and the</hi> ending, <hi>ſaith the Lord; which</hi> is, <hi>and which</hi> was, <hi>and which</hi> is <hi>to come, the</hi> Almighty, <hi>who is come; and that of</hi> God <hi>in</hi> all <hi>witneſſeth to</hi> him, <hi>and that</hi> he <hi>is</hi> raiſed <hi>from the</hi> Dead; <hi>and being raiſed from the</hi> dead, Death <hi>hath</hi> no <hi>more Dominion over Him;</hi> He dies no more, <hi>but</hi> lives <hi>unto</hi> God; <hi>and ſhall come to Judge the</hi> Quick <hi>and the</hi> Dead <hi>at</hi> his Appearing <hi>and</hi> Coming: <hi>To whom be</hi> Bleſſing, <hi>and</hi> Glory, <hi>and</hi> Dominion <hi>for</hi> ever <hi>and</hi> ever.</p>
+            <p>
+               <hi>Now,</hi> Friends, <hi>this</hi> is <hi>manifeſt, in that</hi> every <hi>One of</hi> You, <hi>hath that in</hi> you <hi>which doth</hi> witneſs, <hi>and which is not</hi> blotted <hi>out; Nor hath</hi> Death <hi>Dominion over, though</hi> Death <hi>Reigns in</hi> your <hi>Mortal fleſh: For, it</hi> witneſſeth <hi>againſt</hi> Sin, <hi>and ſhew<g ref="char:EOLhyphen"/>eth that its Deeds are</hi> evil; <hi>and is</hi> ſtronger <hi>than</hi> Sin, <hi>though</hi> you <hi>obey it not; and</hi> judgeth <hi>Sin and Evil, and</hi> reproveth <hi>it, and thereby</hi> exerciſeth <hi>its Dominion; and ſhews</hi> its <hi>Kingdom over</hi> that <hi>which</hi> It <hi>reproves and judges; VVho came in the</hi> likeneſs <hi>of</hi> ſinful fleſh, <hi>and for</hi> Sin <hi>condemns</hi> Sin <hi>in the</hi> Fleſh, <hi>that</hi> We <hi>might be made the</hi> Righteouſneſs <hi>of</hi> God <hi>in</hi> him, <hi>Not having</hi> Our <hi>Own Righteouſneſs; but that</hi> Righteouſneſs <hi>which is</hi> through <hi>Faith in</hi> Him. <hi>For, by</hi> Grace ye are ſaved, <hi>through</hi> Faith, <hi>and that not of</hi> your <hi>ſelves, it is the</hi> Gift <hi>of</hi> God: <hi>Through Faith in his</hi> Name, <hi>who is the</hi> Power <hi>of</hi> God <hi>unto</hi> Sal<g ref="char:EOLhyphen"/>vation, <hi>unto as many as Obey</hi> him, <hi>Even to as many as</hi> believe <hi>in his</hi> Name; <hi>VVho are</hi> born, <hi>not of</hi> Blood, <hi>nor of</hi> Man, <hi>nor of the</hi> Will <hi>of the</hi> Fleſh, <hi>but of</hi> God; <hi>To whom</hi> he <hi>gave Power to be called the</hi> Sons <hi>of God, Even to as</hi> many <hi>as Received</hi> Him: <hi>VVho came unto</hi> his Own, <hi>but his Own</hi> Received him not.</p>
+            <p>
+               <hi>So,</hi> Friends, <hi>Mind</hi> Ye <hi>in</hi> your <hi>ſelves, and ſee whether there is not</hi> ſuch <hi>a thing in</hi> You, <hi>which alwayes is</hi> for God, <hi>and</hi> againſt all Evil, <hi>which</hi> judges <hi>Evil, which</hi> condemns <hi>Evil, and</hi> ſpeaks <hi>for</hi> God, <hi>whether</hi> You <hi>Obey it, or not? And then tell</hi> me, <hi>whe<g ref="char:EOLhyphen"/>ther</hi> this <hi>doth not</hi> live? <hi>and whether it</hi> lives <hi>not unto</hi> God? <hi>and whether</hi> Death <hi>hath Dominion Over</hi> it, <hi>which</hi> judgeth <hi>Death? And whether</hi> this <hi>be not the</hi> Conſolation? <hi>Though</hi> you <hi>Die, and</hi> Sin <hi>and</hi> Death <hi>hath Dominion Over</hi> You, <hi>by being</hi>
+               <pb n="6" facs="tcp:49709:4"/> 
+               <hi>become</hi> ſervants <hi>of</hi> Sin, <hi>and ſo are</hi> free <hi>from</hi> Righteouſneſs, <hi>yet that</hi> liveth <hi>which would gather</hi> You <hi>to</hi> God? <hi>And whether</hi> you <hi>ſhould not be gathered unto</hi> It, <hi>which</hi> Death <hi>hath</hi> no <hi>Do<g ref="char:EOLhyphen"/>minion Over; who is the</hi> Son <hi>of</hi> God; <hi>who</hi> lives <hi>for</hi> ever, <hi>making</hi> Interceſſion <hi>for us; VVho ſeeks to</hi> gather You <hi>who are</hi> gone <hi>aſtray, who is the</hi> Shepherd <hi>and</hi> Biſhop <hi>of</hi> our <hi>ſouls. Out of whoſe hands none can pluck</hi> his <hi>Sheep: VVhoſe</hi> Kingdom <hi>is an</hi> Everlaſting Kingdom, <hi>and</hi> his Dominion <hi>that which</hi> never <hi>ſhall have end.</hi>
+            </p>
+            <p>Friends <hi>and</hi> Brethren, <hi>Let me ſpeak</hi> freely <hi>to</hi> You <hi>of the Pa<g ref="char:EOLhyphen"/>triarch</hi> Abraham, <hi>and</hi> David, <hi>and the</hi> Holy Men <hi>of God who are gone before; They are fallen aſleep, and</hi> their <hi>fleſh hath</hi> ſeen <hi>Corruption; but</hi> him <hi>whom God hath</hi> raiſed up, <hi>that</hi> he <hi>ſhould ſee</hi> No Corruption, dies <hi>no</hi> more; Him <hi>preach I unto</hi> You, <hi>who is a</hi> Prieſt <hi>for</hi> ever <hi>after the</hi> Order <hi>of</hi> Melchiſedeck; <hi>VVho is made, not</hi> after <hi>the</hi> Law <hi>of a</hi> Carnal Commandment, <hi>but</hi> after <hi>the</hi> Power <hi>of an</hi> Endleſs Life; <hi>VVho is</hi> riſen <hi>from the</hi> Dead, <hi>and become the</hi> firſt fruits <hi>of them that</hi> ſlept; <hi>In whom</hi> All <hi>are made</hi> alive, <hi>VVho in that</hi> he <hi>died,</hi> died <hi>but</hi> once <hi>unto</hi> Sin, <hi>but in that</hi> he <hi>liveth,</hi> he liveth <hi>unto</hi> God; <hi>That</hi> we <hi>ſhould no longer live the reſt of</hi> our <hi>time in the</hi> fleſh, <hi>to the</hi> luſts <hi>of</hi> men, <hi>but to the</hi> Will <hi>of</hi> God: <hi>For,</hi> he <hi>that hath</hi> ſuffered <hi>in the</hi> fleſh, <hi>hath ceaſed from</hi> Sin; <hi>and</hi> he <hi>whom the</hi> Son <hi>hath made</hi> free, <hi>is</hi> free <hi>indeed; and</hi> he <hi>that is a</hi> ſervant <hi>of</hi> Righteouſneſs <hi>is</hi> free <hi>from</hi> Sin. <hi>So likewiſe reckon ye alſo your ſelves, to be</hi> indeed <hi>dead unto</hi> Sin, <hi>but</hi> alive <hi>unto</hi> God <hi>through</hi> Jeſus Christ our Lord.</p>
+            <p>
+               <hi>Now here's the</hi> Conſolation, <hi>That</hi> We <hi>have ſuch an</hi> High Priest, <hi>who is ſet on the</hi> Right hand <hi>of the</hi> Throne <hi>of the</hi> Majeſtie <hi>in the</hi> Heavens. <hi>A</hi> Miniſter <hi>of the</hi> Sanctuary, <hi>and of the</hi> true Tabernacle, <hi>which the</hi> Lord <hi>pi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and not</hi> man; <hi>by whom</hi> We <hi>have</hi> Acceſs <hi>unto</hi> God, <hi>Even by</hi> Faith <hi>in His</hi> Blood; <hi>the</hi> New <hi>and</hi> Living Way, <hi>which</hi> He <hi>hath</hi> conſecrated <hi>for</hi> Us <hi>through the</hi> Vail, <hi>that is to ſay,</hi> His Fleſh, <hi>which is</hi> near You, <hi>and</hi> in you, <hi>So that ye need not ſay in your hearts, VVho ſhall</hi> aſcend <hi>into</hi> Heaven? <hi>(that is to ſay, to</hi> bring down Chriſt from above) <hi>Or, VVho ſhall</hi> deſcend <hi>into the</hi> Deep? <hi>(that is, to</hi> bring <hi>up</hi> Chriſt <hi>again from the</hi> Dead) <hi>but the</hi> Word
+<pb n="7" facs="tcp:49709:4"/> is Nigh you, in your Mouth, and in your Heart; <hi>which is the</hi> Word of Faith which we Preach <hi>(ſaid</hi> Paul) <hi>and the</hi> Righteouſ<g ref="char:EOLhyphen"/>neſs <hi>which is of</hi> Faith, <hi>which ſpeaketh on</hi> this <hi>wiſe, ſaith he, as aforeſaid. So, to this</hi> New <hi>and</hi> Living Way <hi>come, which</hi> he hath conſecrated <hi>unto</hi> Us, <hi>through the</hi> Vail, <hi>that is to ſay</hi> his Fleſh; <hi>that</hi> Ye <hi>may have</hi> boldneſs <hi>to</hi> Enter <hi>into the</hi> Holieſt <hi>by the</hi> Blood <hi>of</hi> Jeſus, <hi>VVhoſe</hi> Blood <hi>clenſeth from</hi> all Sin. <hi>So the thing is not far from</hi> You, <hi>but</hi> Nigh You; <hi>the Way is not without</hi> you, <hi>but</hi> within You, <hi>into the</hi> Holieſt; <hi>the</hi> New <hi>and</hi> Li<g ref="char:EOLhyphen"/>ving Way <hi>unto God, which</hi> tenders <hi>it ſelf unto</hi> You, <hi>to be a</hi> Light <hi>unto</hi> your feet, <hi>and a</hi> Lanthorn <hi>unto</hi> your Paths; <hi>Even the</hi> Word, <hi>The</hi> Immortal Word, <hi>The</hi> Word <hi>Nigh</hi> You <hi>in</hi> Your <hi>Mouth, and in</hi> Your <hi>Heart; The</hi> Law <hi>of the</hi> Lord, <hi>which</hi> En<g ref="char:EOLhyphen"/>lightens <hi>the</hi> Soul; <hi>which is</hi> Light; <hi>Chriſt Jeſus the</hi> Light, <hi>which</hi> enlightens Every Man <hi>that cometh into the</hi> World; <hi>the</hi> true Light, <hi>in whom was</hi> Life, <hi>and the</hi> Life <hi>was the</hi> Light <hi>of</hi> Men; <hi>VVho was in the</hi> World, <hi>and the</hi> VVorld <hi>was made by</hi> Him, <hi>and the</hi> VVorld <hi>knew</hi> him <hi>not: VVho came unto</hi> his <hi>Own, but</hi> his <hi>Own Received</hi> him <hi>not; but to as</hi> many <hi>as Received</hi> him, <hi>to them gave</hi> he <hi>Power to be called the</hi> Sons <hi>of</hi> God, <hi>Even to</hi> them <hi>that believe in</hi> his <hi>Name; VVhoſe</hi> Name <hi>is called</hi> The VVord of God; <hi>which was in the</hi> Be<g ref="char:EOLhyphen"/>ginning, <hi>which was with</hi> God, <hi>which was</hi> God; <hi>the ſame was in the</hi> Beginning <hi>with God.</hi> All <hi>things were made by</hi> Him, <hi>and without</hi> Him <hi>was not</hi> any <hi>thing made that was</hi> made.</p>
+            <p>
+               <hi>So,</hi> Friends, <hi>The</hi> VVay <hi>is</hi> Eaſie, <hi>and the</hi> Lord <hi>hath made it ſo, Even the</hi> VVay <hi>unto</hi> Himſelf <hi>by</hi> CHRIST, <hi>and</hi> You <hi>know it: Now, it is for</hi> You <hi>to walk</hi> therein; <hi>For there is</hi> No <hi>Other Name given under</hi> Heaven <hi>by which</hi> We <hi>can be ſaved, but</hi> CHRIST <hi>the</hi> LIGHT; <hi>the</hi> True Light <hi>which</hi> lighteth Every Man that Cometh into the VVorld; <hi>VVhich</hi> John <hi>bore</hi> Teſtimony <hi>of and ſaid, That</hi> he came for a VVitneſs, to bear Witneſs of the Light; <hi>The</hi> Man <hi>that was</hi> ſent <hi>of</hi> God, <hi>whoſe</hi> Name <hi>was</hi> JOHN: <hi>and he ſaith, That the</hi> LIGHT ſhineth in Darkneſs, <hi>and the</hi> Darkneſs comprehended it not; <hi>which was in</hi> Him <hi>who was</hi> Life, <hi>and the</hi> Life <hi>was the</hi>
+               <pb n="8" facs="tcp:49709:5"/> Light <hi>of</hi> Men; <hi>by whom all things were made, as afore<g ref="char:EOLhyphen"/>ſaid.</hi>
+            </p>
+            <p>
+               <hi>So then,</hi> CHRIST <hi>is</hi> Life, <hi>and the</hi> Life <hi>is</hi> Light; <hi>and the</hi> Light <hi>is in</hi> You: CHRIST <hi>the</hi> VVay, <hi>the</hi> Truth, <hi>and the</hi> Life, <hi>which</hi> makes <hi>manifeſt: For,</hi> Whatſoever is made manifeſt, is made manifeſt by the LIGHT: <hi>Unto</hi> this <hi>Come, in</hi> this <hi>Believe: For, this I teſtifie unto</hi> You <hi>in the</hi> Name <hi>of the</hi> LORD, <hi>whoſe</hi> VVord <hi>it is, and</hi> You <hi>ſhall</hi> Witneſs <hi>it; who hath moved</hi> me <hi>to write, That if</hi> You <hi>Return unto</hi> This, <hi>unto the</hi> LORD, <hi>the</hi> Rod <hi>which is prepared for</hi> Others <hi>ſhall not fall upon</hi> You; <hi>but if</hi> Ye <hi>do not,</hi> Ye <hi>ſhall fall in</hi> your Blood; <hi>The LORD hath</hi> ſpoken it. <hi>So</hi> Farewell. <hi>I am</hi>
+            </p>
+            <closer>
+               <signed>Your Friend, <hi>GEO. BISHOPE.</hi>
+               </signed>
+               <dateline>BRISTOL,
+<date>
+                     <hi>17th day of the 9th</hi> month, 1661.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:49709:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
